@@ -11,7 +11,8 @@ The main requirement for this workshop is a personal computer with a web browser
 *Windows* users: get [MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html), [Visual Studio Code](https://code.visualstudio.com/) or PuTTY.  
 This equipment will allow you to follow the online materials and to login to a facility with the required software stack.
 
-*Optional*: if you have a Windows box, you will also need to install [Cygwin/X](https://x.cygwin.com) to run the example on X11 applications.  If you have macOS, you will need [XQuartz](https://www.xquartz.org) installed instead.
+If you have a Windows box, you will also need to install [Cygwin/X](https://x.cygwin.com) to run the example on X11 applications.  
+If you have macOS, you will need [XQuartz](https://www.xquartz.org) installed instead.
 
 
 ### Self-paced: Pawsey users
