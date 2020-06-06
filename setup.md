@@ -27,14 +27,9 @@ This equipment will allow you to follow the online materials and to login to a f
 > 
 > #### Linux box
 > 
-> Required packages
+> Required packages:
 > - Singularity : [script]({{ page.root }}/files/install-singularity.sh) \| [docs](https://sylabs.io/guides/3.5/user-guide/quick_start.html)
 > - Docker : [docs (unofficial)](https://www.itzgeek.com/how-tos/linux/ubuntu-how-tos/how-to-install-docker-on-ubuntu-18-04-lts-bionic-beaver.html)
-> 
-> Optional packages
-> - Nextflow engine : [script]({{ page.root }}/files/install-nextflow.sh) \| [docs](https://www.nextflow.io/docs/latest/getstarted.html)
-> - Environment modules : [script]({{ page.root }}/files/install-modules.sh) \| [docs](http://modules.sourceforge.net)
-> - Docker Compose: [script]({{ page.root }}/files/install-dockercompose.sh) \| [docs](https://docs.docker.com/compose/)
 > 
 > **Note:** install scripts have been tested on a Ubuntu machine through a user that can run *sudo* commands without password prompts. There's no warranty they will work in your Linux box, you should consider them as templates.
 > 
