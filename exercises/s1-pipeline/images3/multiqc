@@ -1,0 +1,9 @@
+#!/bin/bash
+
+image_name="multiqc_1.9--pyh9f0ad1d_0.sif"
+
+image_dir="$(dirname $0)"
+cmd="$(basename $0)"
+args="$@"
+
+singularity exec $image_dir/$image_name $cmd $args
