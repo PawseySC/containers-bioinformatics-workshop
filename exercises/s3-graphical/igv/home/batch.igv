@@ -1,0 +1,5 @@
+preference SAM.SHOW_SOFT_CLIPPED true
+new
+genome hg38
+load /home/ubuntu/VIR_599.repeat_loci.bam
+goto chr4:39,348,243-39,348,635
