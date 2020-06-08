@@ -1,9 +1,0 @@
-#!/bin/bash
-
-image_name="fastqc_0.11.9--0.sif"
-
-image_dir="$(dirname $0)"
-cmd="$(basename $0)"
-args="$@"
-
-singularity exec $image_dir/$image_name $cmd $args

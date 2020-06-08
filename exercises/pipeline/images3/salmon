@@ -1,9 +1,0 @@
-#!/bin/bash
-
-image_name="salmon_1.2.1--hf69c8f4_0.sif"
-
-image_dir="$(dirname $0)"
-cmd="$(basename $0)"
-args="$@"
-
-singularity exec $image_dir/$image_name $cmd $args
