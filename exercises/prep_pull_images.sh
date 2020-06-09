@@ -11,3 +11,6 @@ singularity exec docker://marcodelapierre/ipycytoscape:0.2.2 echo ciao
 singularity exec docker://marcodelapierre/igv:2.8.3 echo ciao
 
 # session 3
+singularity exec docker://rocker/tidyverse:3.6.1 echo ciao
+singularity exec docker://continuumio/miniconda3:4.8.2 echo ciao
+singularity exec docker://ubuntu:18.04 echo ciao
