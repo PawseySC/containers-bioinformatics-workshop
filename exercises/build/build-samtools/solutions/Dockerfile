@@ -39,4 +39,3 @@ ENV PATH=/apps/bin:$PATH
 
 # Default command to be bash
 CMD ["/bin/bash"]
-
