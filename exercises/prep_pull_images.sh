@@ -14,3 +14,6 @@ singularity exec docker://marcodelapierre/igv:2.8.3 echo ciao
 singularity exec docker://rocker/tidyverse:3.6.1 echo ciao
 singularity exec docker://continuumio/miniconda3:4.8.2 echo ciao
 singularity exec docker://ubuntu:18.04 echo ciao
+docker pull rocker/tidyverse:3.6.1
+docker pull continuumio/miniconda3:4.8.2
+docker pull ubuntu:18.04
