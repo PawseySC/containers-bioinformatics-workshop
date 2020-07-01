@@ -10,8 +10,8 @@ root: .
 The main requirement for this workshop is a personal computer with a web browser and a command line shell program.  
 
 *Windows* users: [MobaXterm](https://mobaxterm.mobatek.net/download-home-edition.html) is the **preferred option**, as it also provides X11 forwarding.  The *Portable Edition* is best, as it does not require administrative privileges.  
-Other acceptable options would be [Visual Studio Code](https://code.visualstudio.com/) or PuTTY, but you will also need to install [Cygwin/X](https://x.cygwin.com) to run the example on X11 applications.  
-This equipment will allow you to follow the online materials and to login to a facility with the required software stack.
+<!--Other acceptable options would be [Visual Studio Code](https://code.visualstudio.com/) or PuTTY, but you will also need to install [Cygwin/X](https://x.cygwin.com) to run the example on X11 applications.  -->
+In this way you will be able to follow the online materials and to login to a facility with the required software stack.
 
 If you have *macOS*, you will need [XQuartz](https://www.xquartz.org) to install to run the example on X11 applications.
 
