@@ -4,7 +4,7 @@ salmon_image="$WORK/exercises/pipeline/data/salmon_1.2.1--hf69c8f4_0.sif"
 fastqc_image="$WORK/exercises/pipeline/data/fastqc_0.11.9--0.sif"
 multiqc_image="$WORK/exercises/pipeline/data/multiqc_1.9--pyh9f0ad1d_0.sif"
 
-SINGULARITY_BINDPATH="$WORK/exercises/pipeline"
+export SINGULARITY_BINDPATH="$WORK/exercises/pipeline"
 
 
 echo "Pipeline started..."
