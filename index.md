@@ -13,3 +13,6 @@ permalink: index.html  # Is the only page that don't follow the partner /:path/i
 > 
 > Also, the tutorial [Containers on HPC and Cloud with Singularity](https://pawseysc.github.io/singularity-containers/) is the ideal starting point prior to going through this workshop.  
 {: .prereq}
+
+
+**Video Recordings**: advanced excerpts from the workshop sessions and the entire panel discussions are now available on the Pawsey Centre Youtube channel, [playlist here](https://www.youtube.com/playlist?list=PLmu61dgAX-aYkz4rAl-nqmUfq_u9YUoFn).
